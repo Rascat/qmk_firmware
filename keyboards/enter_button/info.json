@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "enter_button",
+    "url": "",
+    "maintainer": "Rascat",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "k00", "x": 0, "y": 0}
+            ]
+        }
+    }
+}
